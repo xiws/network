@@ -1,0 +1,7 @@
+E:\network\Test\bin\Debug\Test.exe.config
+E:\network\Test\bin\Debug\Test.exe
+E:\network\Test\bin\Debug\Test.pdb
+E:\network\Test\obj\Debug\WebServer.csprojAssemblyReference.cache
+E:\network\Test\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+E:\network\Test\obj\Debug\Test.exe
+E:\network\Test\obj\Debug\Test.pdb

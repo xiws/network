@@ -1,0 +1,6 @@
+E:\network\network\bin\Debug\network.pdb
+E:\network\network\obj\Debug\network.csproj.CoreCompileInputs.cache
+E:\network\network\obj\Debug\network.pdb
+E:\network\network\bin\Debug\network.dll.config
+E:\network\network\bin\Debug\network.dll
+E:\network\network\obj\Debug\network.dll
